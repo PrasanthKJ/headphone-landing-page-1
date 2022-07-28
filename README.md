@@ -2,7 +2,7 @@
 
 Project Description: This is the website that can be used for headphone website.
 
-Live demo of this project: [Live Demo - Fashion Blog 1](https://headphone-landingpage-1-prasanthkj.netlify.app/)
+Live demo of this project: [Live Demo - Headphone Landing Page 1](https://headphone-landingpage-1-prasanthkj.netlify.app/)
 
 Website Developed by: **[Prasanth KJ](https://www.prasanthkj.com)**
 
