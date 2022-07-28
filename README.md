@@ -10,13 +10,13 @@ Technology used     : **HTML5, CSS**
 
 ### Blog Demo:
 
-![Flashion Blog Homepage](https://github.com/PrasanthKJ/Fashion-Blog/blob/main/1.png)
+![Headphone Landing Page](https://github.com/PrasanthKJ/headphone-landing-page-1/blob/main/7.png)
 
 ---
 ### P.S
 
 `Time taken to build this project:` <br>
-6 hours (only for css changes)
+5 hours (only for css changes)
 
 `Learning from this project`:<br>
-CSS: Flexbox, aligning elements, pseudo elements
+CSS: Flexbox, aligning elements, using svg image 
